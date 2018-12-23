@@ -1,0 +1,2 @@
+Simple proof of concept how function overloading can be achieved in Python with
+the help of the new type annotation feature available since Python3.5.
